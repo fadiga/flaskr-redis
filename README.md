@@ -10,6 +10,7 @@ A Flask and Redis powered aplication.
 ## Installation
 
 [Install Redis](http://library.linode.com/databases/redis/ubuntu-10.04-lucid).  
+
 Then:  
     
 	sudo pip install Flask hiredis redis   
