@@ -1,0 +1,4 @@
+incr global:nextEntryId
+
+entries:[id]:title
+entries:[id]:text
