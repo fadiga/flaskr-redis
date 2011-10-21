@@ -9,13 +9,13 @@ A Flask and Redis powered aplication.
 
 ## Documentation
 
-[Install Redis](http://library.linode.com/databases/redis/ubuntu-10.04-lucid).
-Then:
-    sudo pip install Flask hiredis redis
-Download flaskr-redis, then:
-    cd flaskr-redis/
-    python app.py
-Go to http://localhost:5000/
+[Install Redis](http://library.linode.com/databases/redis/ubuntu-10.04-lucid).  
+Then:  
+    sudo pip install Flask hiredis redis  
+Download flaskr-redis, then:  
+    cd flaskr-redis/  
+    python app.py  
+Go to http://localhost:5000/  
 
 ## License
 
